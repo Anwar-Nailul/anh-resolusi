@@ -2,3 +2,4 @@ ANH RESOLUSI
 - Konsisten belajar VUE
 - Konsisten belaja GIT dan GITHub
 - Persiapan membuat Web untuk digital marketing ORCA
+- Persiapan belajar Networking untuk IT Maintanence
