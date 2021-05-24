@@ -1,4 +1,4 @@
-ANH RESOLUSI
+ANH RESOLUSI 2021
 - Konsisten belajar VUE
 - Konsisten belaja GIT dan GITHub
 - Persiapan belajar Networking untuk IT Maintanence
